@@ -156,8 +156,8 @@ const lato = Lato({
 });
 
 export const metadata: Metadata = {
-  title: "2DM Technologies",
-  description: "Applied AI consulting by 2DM Technologies",
+  title: "2DM Technologies | Applied AI Consulting",
+  description: "Applied AI consulting for your startup",
   icons: {
     icon:
       "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width='64' height='64'><rect width='64' height='64' fill='%23ff0000'/></svg>",
