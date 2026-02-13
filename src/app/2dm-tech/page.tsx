@@ -27,7 +27,7 @@ export default function Home() {
           <div className={styles.content}>
             <p className={styles.paragraph}>
               Applied AI Consulting for your startup, offered by{" "}
-              <a href="https://noahputnam.computer" target="_blank" rel="noopener noreferrer">
+              <a href="https://noahputnam.computer/about" target="_blank" rel="noopener noreferrer">
                 Noah Putnam
               </a>{" ("}
               <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer">
