@@ -13,8 +13,8 @@ export default function Home() {
                 <Image
                   src="/2dm-logo-new.png"
                   alt="2DM Technologies"
-                  width={200 * 1.05}
-                  height={60 * 1.05}
+                  width={200 * 1.025}
+                  height={60 * 1.025}
                   priority
                   className={styles.companyLogo}
                 />
