@@ -12,7 +12,7 @@ export default function Home() {
               <div className={styles.companyInfo}>
                 <Image
                   src="/2dm-logo-new.png"
-                  alt="2DM Technologies Logo"
+                  alt="2DM Technologies"
                   width={200}
                   height={60}
                   priority
