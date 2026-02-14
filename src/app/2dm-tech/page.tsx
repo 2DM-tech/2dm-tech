@@ -51,9 +51,6 @@ export default function Home() {
             <h2 className={styles.linksHeading}>Links</h2>
             <ul className={styles.linksList}>
               <li>
-                <a href="#">Book an intro call</a>
-              </li>
-              <li>
                 <a href="#">To Align Agents, give them an Ontology</a>
               </li>
               <li>
@@ -61,6 +58,9 @@ export default function Home() {
               </li>
               <li>
                 <a href="#">Ownership Culture</a>
+              </li>
+              <li>
+                <a href="#">Book an intro call</a>
               </li>
             </ul>
           </div>
